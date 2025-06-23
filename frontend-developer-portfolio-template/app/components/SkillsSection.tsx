@@ -3,12 +3,15 @@
 import { motion } from 'framer-motion';
 
 const skills = [
-	{ skill: 'React/Next.js', level: 95 },
-	{ skill: 'TypeScript', level: 90 },
-	{ skill: 'UI/UX Design', level: 85 },
-	{ skill: 'CSS/Sass/Tailwind', level: 95 },
-	{ skill: 'JavaScript', level: 90 },
-	{ skill: 'Responsive Design', level: 95 },
+  { skill: 'Microsoft Office', level: 95 },
+  { skill: 'Google Suite', level: 95 },
+  { skill: 'Java', level: 90 },
+  { skill: 'Python', level: 90 },
+  { skill: 'R', level: 85 },
+  { skill: 'Excel', level: 95 },
+  { skill: 'Exploratory Data Analysis', level: 90 },
+  { skill: 'Trend Analysis', level: 85 },
+  { skill: 'Regulatory Compliance', level: 80 },
 ];
 
 export default function SkillsSection() {

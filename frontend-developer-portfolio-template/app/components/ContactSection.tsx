@@ -19,7 +19,7 @@ export default function ContactSection() {
 							<h2 className="text-4xl font-bold mb-3 text-center bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 text-transparent bg-clip-text">
 								Let&apos;s Connect
 							</h2>
-							<p className="text-gray-400 text-center mb-4">Ready to collaborate or have a project in mind? Let&apos;s make something amazing together.</p>
+							<p className="text-gray-400 text-center mb-4">Want to collaborate? Let&apos;s make it happen.</p>
 							<div className="flex items-center justify-center gap-2 text-gray-400 mb-8">
 								<svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
 									<path
@@ -30,7 +30,7 @@ export default function ContactSection() {
 									/>
 									<path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
 								</svg>
-								<span>San Francisco, CA</span>
+								<span>Berkeley, CA</span>
 							</div>
 						</motion.div>
 						<div className="flex flex-col items-center gap-6 mb-8">
