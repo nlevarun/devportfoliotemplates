@@ -13,6 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+	metadataBase: new URL('https://varunvenkatesh.com'),
 	title: 'Varun Venkatesh - Frontend Developer',
 	description:
 		'Varun Venkatesh is a data-driven problem solver specializing in law, policy, and finance. As a dual major in Applied Mathematics and Political Science at UC Berkeley, he leverages quantitative analysis and policy insights to create impactful solutions. Big on math, bigger on LeBron.',
@@ -36,7 +37,7 @@ export const metadata: Metadata = {
 		siteName: 'Varun Venkatesh - Portfolio',
 		images: [
 			{
-				url: '/og-image.jpg',
+				url: '/laptop.jpg',
 				width: 1200,
 				height: 630,
 				alt: 'Varun Venkatesh - Frontend Developer Portfolio',
